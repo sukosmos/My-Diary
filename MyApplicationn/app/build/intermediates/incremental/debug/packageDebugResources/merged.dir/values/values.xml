@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_photo">
+        <item>사진 찍기</item>
+        <item>앨범에서 선택하기</item>
+    </string-array>
+    <string-array name="array_photo_ex">
+        <item>사진 찍기</item>
+        <item>앨범에서 선택하기</item>
+        <item>사진 삭제하기</item>
+    </string-array>
+    <string-array name="switch_days">
+        <item>월</item>
+        <item>화</item>
+        <item>수</item>
+        <item>목</item>
+        <item>금</item>
+        <item>토</item>
+        <item>일</item>
+    </string-array>
+    <string-array name="switch_tabs">
+        <item>내용</item>
+        <item>사진</item>
+    </string-array>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <string name="address_string">OO구 OO동</string>
+    <string name="app_name">싱글다이어리</string>
+    <string name="close_button">닫기</string>
+    <string name="delete_button">삭제</string>
+    <string name="graph1_title">기분별 비율</string>
+    <string name="graph2_title">요일별 기분</string>
+    <string name="graph3_title">기분 변화</string>
+    <string name="input_contents_hint">내용 입력</string>
+    <string name="save_button">저장</string>
+    <string name="tab_title1">목록</string>
+    <string name="tab_title2">작성</string>
+    <string name="tab_title3">통계</string>
+    <string name="today_date_string">O월 O일</string>
+    <string name="write_today">오늘 작성</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorOnPrimary">@android:color/black</item>
+        <item name="colorSecondary">@color/colorAccent</item>
+    </style>
+    <style name="Base.Theme.MyApplicationn" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="SplashTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+    <style name="Theme.MyApplicationn" parent="Base.Theme.MyApplicationn"/>
+</resources>

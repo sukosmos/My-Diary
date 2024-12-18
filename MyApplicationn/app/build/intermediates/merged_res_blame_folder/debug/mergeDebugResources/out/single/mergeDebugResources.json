@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplicationn.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_appicon.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/appicon.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_weather_icon_6.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/weather_icon_6.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_weather_7.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/weather_7.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_smile3_24.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/smile3_24.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_weather_4.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/weather_4.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_weather_icon_3.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/weather_icon_3.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_write_48.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/write_48.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_smile1_24.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/smile1_24.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_smile3_48.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/smile3_48.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_smile4_48.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/smile4_48.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_smile2_48.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/smile2_48.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_splash_base.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/splash_base.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_smile5_48.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/smile5_48.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplicationn.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_smile1_48.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/smile1_48.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_weather_icon_5.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/weather_icon_5.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_weather_3.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/weather_3.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/layout_fragment1.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/layout/fragment1.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplicationn.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_graph_48.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/graph_48.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/xml_external.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/xml/external.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/menu_menu_bottom.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/menu/menu_bottom.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_weather_icon_2.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/weather_icon_2.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_item_color.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/item_color.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_noimagefound.jpg.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/noimagefound.jpg"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/layout_note_item.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/layout/note_item.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplicationn.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_splash_background.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/splash_background.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_list_48.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/list_48.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplicationn.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_select_button.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/select_button.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplicationn.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/layout_fragment2.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/layout/fragment2.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/xml_file_path.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/xml/file_path.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_weather_2.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/weather_2.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_weather_icon_1.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/weather_icon_1.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_note_48.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/note_48.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_smile2_24.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/smile2_24.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_weather_6.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/weather_6.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_diary_item.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/diary_item.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplicationn.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/layout_fragment3.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/layout/fragment3.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_applogo.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/applogo.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_weather_1.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/weather_1.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplicationn.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_smile5_24.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/smile5_24.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_smile4_24.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/smile4_24.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_weather_icon_7.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/weather_icon_7.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_note_128.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/note_128.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_star.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/star.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplicationn.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_imagetoset.jpg.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/imagetoset.jpg"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_weather_5.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/weather_5.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplicationn.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_picture_128.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/picture_128.png"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_picture1.jpg.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/picture1.jpg"
+    },
+    {
+        "merged": "com.example.myapplicationn.app-debug-31:/drawable_weather_icon_4.png.flat",
+        "source": "com.example.myapplicationn.app-main-33:/drawable/weather_icon_4.png"
+    }
+]
